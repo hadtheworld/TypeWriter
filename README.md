@@ -5,7 +5,7 @@ This is a simple software which types the content passed in input file for the u
 FEATURES:
 - Simple user interface with 'yes' and 'no' button to start typint from inut file and 'text box' to take the input file number to read from
 - if no integer is passed inside 'text box' no typing will be carried out.
-- Input files are to be named as - input1.txt, input2.txt, input3.txr and so on..
+- Input files are to be named as - input1.txt, input2.txt, input3.txt and so on..
 -  Currently supports 10 input file no less and  no more
 
 
